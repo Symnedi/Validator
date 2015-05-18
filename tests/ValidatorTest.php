@@ -2,13 +2,13 @@
 
 namespace Symnedi\Validator\Tests;
 
-use Symnedi\Validator\Tests\ValidatorSource\SomeEntity;
 use Nette\DI\Container;
 use PHPUnit_Framework_TestCase;
 use Symfony\Component\Validator\ConstraintViolation;
 use Symfony\Component\Validator\ConstraintViolationList;
 use Symfony\Component\Validator\Validator\RecursiveValidator;
 use Symfony\Component\Validator\Validator\ValidatorInterface;
+use Symnedi\Validator\Tests\ValidatorSource\SomeEntity;
 
 
 class ValidatorTest extends PHPUnit_Framework_TestCase
