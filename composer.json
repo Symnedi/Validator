@@ -2,7 +2,7 @@
 	"name": "symnedi/validator",
 	"description": "Symfony\\Validator integration to Nette.",
 	"keywords": ["nette", "symfony", "validator"],
-	"licence": "MIT",
+	"license": "MIT",
 	"authors": [
 		{ "name": "Tomáš Votruba", "homepage": "http://tomasvotruba.cz", "email": "tomas.vot@gmail.com" }
 	],
