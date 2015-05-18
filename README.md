@@ -7,9 +7,6 @@
 [![Latest stable](https://img.shields.io/packagist/v/symnedi/validator.svg?style=flat-square)](https://packagist.org/packages/symnedi/validator)
 
 
-- [Symfony documentation](http://symfony.com/doc/current/book/validation.html)
-
-
 ## Install
 
 Via Composer:
@@ -96,6 +93,8 @@ class RegistrationManager
 ```
 
 That's it!
+
+For detailed usage, check [Symfony documentation](http://symfony.com/doc/current/book/validation.html).
 
 
 ## Testing
