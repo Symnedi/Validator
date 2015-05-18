@@ -1,0 +1,26 @@
+{
+	"name": "symnedi/validator",
+	"authors": [
+		{ "name": "Tomáš Votruba", "homepage": "http://tomasvotruba.cz", "email": "tomas.vot@gmail.com" }
+	],
+	"require": {
+		"php": ">=5.5",
+		"kdyby/annotations": "~2.1",
+		"nette/di": "~2.3",
+		"nette/caching": "~2.3",
+		"symfony/validator": "~2.6"
+	},
+	"require-dev": {
+		"nette/bootstrap": "~2.3"
+	},
+	"autoload": {
+		"psr-4": {
+			"Symnedi\\Validator\\": "src"
+		}
+	},
+	"autoload-dev": {
+		"psr-4": {
+			"Symnedi\\Validator\\Tests\\": "tests"
+		}
+	}
+}

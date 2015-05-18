@@ -1,0 +1,3 @@
+extensions:
+	annotations: Kdyby\Annotations\DI\AnnotationsExtension
+	- Symnedi\Validator\DI\ValidatorExtension
