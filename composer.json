@@ -8,10 +8,10 @@
 	],
 	"require": {
 		"php": ">=5.5",
-		"kdyby/annotations": "~2.1",
-		"nette/di": "~2.3",
+		"kdyby/annotations": "~2.2",
 		"nette/caching": "~2.3",
-		"symfony/validator": "~2.6"
+		"nette/di": "~2.3",
+		"symfony/validator": "~2.7"
 	},
 	"require-dev": {
 		"nette/bootstrap": "~2.3"
