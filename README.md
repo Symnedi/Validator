@@ -20,6 +20,7 @@ Register the extension in `config.neon`:
 ```yaml
 extensions:
 	- Symnedi\Validator\DI\ValidatorExtension
+	- Kdyby\Annotations\DI\AnnotationsExtension
 ```
 
 
