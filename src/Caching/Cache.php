@@ -13,7 +13,7 @@ use Symfony\Component\Validator\Mapping\Cache\CacheInterface;
 use Symfony\Component\Validator\Mapping\ClassMetadata;
 
 
-class Cache implements CacheInterface
+final class Cache implements CacheInterface
 {
 
 	/**
@@ -27,6 +27,10 @@ class Cache implements CacheInterface
 	private $cache;
 
 
+	/**
+	 * @param IStorage $storage
+	 * @param string $namespace
+	 */
 	public function __construct(IStorage $storage, $namespace = self::CACHE_NAMESPACE)
 	{
 		$this->cache = new NetteCache($storage, $namespace);

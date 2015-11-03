@@ -10,12 +10,14 @@ class SomeEntity
 
 	/**
 	 * @Assert\NotBlank
+	 * @var string
 	 */
 	private $name;
 
 	/**
 	 * @Assert\NotBlank
 	 * @Assert\Email
+	 * @var string
 	 */
 	private $email;
 
