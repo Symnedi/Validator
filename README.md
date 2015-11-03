@@ -3,7 +3,7 @@
 [![Build Status](https://img.shields.io/travis/Symnedi/Validator.svg?style=flat-square)](https://travis-ci.org/Symnedi/Validator)
 [![Quality Score](https://img.shields.io/scrutinizer/g/Symnedi/Validator.svg?style=flat-square)](https://scrutinizer-ci.com/g/Symnedi/Validator)
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/Symnedi/Validator.svg?style=flat-square)](https://scrutinizer-ci.com/g/Symnedi/Validator)
-[![Downloads this Month](https://img.shields.io/packagist/dm/symnedi/validator.svg?style=flat-square)](https://packagist.org/packages/symnedi/validator)
+[![Downloads](https://img.shields.io/packagist/dt/symnedi/validator.svg?style=flat-square)](https://packagist.org/packages/symnedi/validator)
 [![Latest stable](https://img.shields.io/packagist/v/symnedi/validator.svg?style=flat-square)](https://packagist.org/packages/symnedi/validator)
 
 
