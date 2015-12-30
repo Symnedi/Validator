@@ -1,5 +1,7 @@
 # Symnedi/Validator
 
+This package is deprecated. Use [Kdyby/Validator](https://github.com/Kdyby/Validator) instead.
+
 [![Build Status](https://img.shields.io/travis/Symnedi/Validator.svg?style=flat-square)](https://travis-ci.org/Symnedi/Validator)
 [![Quality Score](https://img.shields.io/scrutinizer/g/Symnedi/Validator.svg?style=flat-square)](https://scrutinizer-ci.com/g/Symnedi/Validator)
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/Symnedi/Validator.svg?style=flat-square)](https://scrutinizer-ci.com/g/Symnedi/Validator)
